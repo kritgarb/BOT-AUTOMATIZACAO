@@ -6,7 +6,11 @@
 Esse é um projeto feito na linguagem Python
 utilizando a biblioteca pyautogui para a automatização
 local e Selenium para a automatização Web. Foi inspirado
-em um projeto da canal Hashtag Programação.
+em um projeto da canal Hashtag Programação. O principal objetivo
+dessa automatização é explorar os limites das bibliotecas quanto 
+automatizações de pequenos serviços. Nos dois exemplos a 
+lógica está direcionada a manipulação de pequenas atividades
+comuns do dia a dia como, por exemplo, acessar a netflix.
 
 
 ## Referência
