@@ -1,5 +1,5 @@
 
-# Bot de Automatização Web e Local
+# Bot de Automação Web e Local
 
 ![image](https://user-images.githubusercontent.com/92138212/211161667-0c4e4538-9f67-442e-946a-a12aee2f9ec3.png)
 
